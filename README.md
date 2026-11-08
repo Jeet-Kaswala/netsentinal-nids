@@ -28,5 +28,9 @@ The system operates on a dual-pipeline architecture:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/Jeet-Kaswala/netsentinal-nids.git
+   netsentinal-nids_NAME
+
+### Access the Deployment
+
+https://netsentinal.streamlit.app/
